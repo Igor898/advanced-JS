@@ -1,0 +1,17 @@
+.product-item {
+    min-width: 150px;
+    background-color:#d8c2c2;
+    display: flex;
+    flex-direction: column;
+}
+
+.products {
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.photo {
+    width: 100px;
+    align-self: center;
+}
